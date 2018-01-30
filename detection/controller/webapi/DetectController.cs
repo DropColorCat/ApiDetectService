@@ -8,7 +8,7 @@
     using System.Collections.Generic;
 
     /// <summary>
-    /// 接口
+    /// 测温接口
     /// </summary>
     public class DetectController : BaseModule
     {
